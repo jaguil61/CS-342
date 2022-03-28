@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea editable="false" prefHeight="400.0" prefWidth="500.0" text="1.  Select the difficulty you want the two AI's to play at (Novice, Advanced, Expert).&#10;&#10;2. Choose the number of times you want the two AI's to play (1,2,3,...).&#10;&#10;3. Hit play.&#10;&#10;4. Sit back and relax. " wrapText="true">
+         <font>
+            <Font name="Arial Black" size="25.0" />
+         </font>
+      </TextArea>
+   </children>
+</VBox>
